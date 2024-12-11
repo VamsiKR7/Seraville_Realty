@@ -1,0 +1,27 @@
+*{
+    padding : 0;
+    margin : 0;
+    box-sizing : border-box;
+    // font-style : "Eurotypo BKL Italic";
+    // align-items: center;
+}
+
+a {
+    text-decoration : none;
+    color : inherit;
+}
+
+body {
+    font-family: sans-serif;
+    overflow : hidden;
+    // overflow-y: scroll
+    
+    .edit {
+        font-size: large;
+        font-style:oblique;
+    }
+
+    .title {
+        font-size: large;
+    }
+}
